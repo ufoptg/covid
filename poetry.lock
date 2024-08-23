@@ -620,7 +620,7 @@ name = "ipython"
 version = "8.26.0"
 description = "IPython: Productive Interactive Computing"
 optional = false
-python-versions = ">=3.9.2"
+python-versions = ">=3.10"
 files = [
     {file = "ipython-8.26.0-py3-none-any.whl", hash = "sha256:e6b347c27bdf9c32ee9d31ae85defc525755a1869f14057e900675b9e8d6e6ff"},
     {file = "ipython-8.26.0.tar.gz", hash = "sha256:1cec0fbba8404af13facebe83d04436a7434c7400e59f47acf467c64abd0956c"},
